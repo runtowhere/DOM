@@ -1,2 +1,4 @@
-# fvRTE
-Finite volume method for radiative tranfer euqaiton in two dimension.
+# DOM
+Discrete Ordinates Method for radiative tranfer euqaiton in two dimension.
+
+#Cartesian grids.
